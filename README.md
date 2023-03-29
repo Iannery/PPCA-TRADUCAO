@@ -2,7 +2,6 @@
 
 Este repositório contém o código fonte do site [ppca-traducao.vercel.app](https://ppca-traducao.vercel.app/en_US.html), uma tradução do site do [PPCA](https://ppca.unb.br) em inglês.
 
-**Atenção** - As notícias traduzidas não estão disponíveis por meio dos botões dentro do site, apenas por meio dos links abaixo.
 Endereço Traduzido|Traduzido|Endereço|
 | :----: |:----:| :--- |
 |[Link](https://ppca-traducao.vercel.app/)|✅|[Inicio](https://ppca.unb.br/)|
